@@ -19,28 +19,28 @@ global.autobio = true
 //language
 //Available in indonesia , english & spanyol 
 //You can request others language 
-global.language = spanyol  //change indonesia to english if you don't understand the language used by the bot
+global.language = english  //change indonesia to english if you don't understand the language used by the bot
 
 
 // Other
 // Other
-global.botname = "Arleibot-Mdོ" //namabot kalian
-global.ownername= "ᴹᴿ᭄ owner ×፝֟͜×" //nama kalian
+global.botname = "Whatsappbot-Mdོ" //namabot kalian
+global.ownername= "ᴹᴿ᭄ CHARLIE999 ×፝֟͜×" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
-global.youtube = "https://youtube.com/channel/UCdzpx99-ACkrlwWii4gpSDA" //bebas asal jan hapus
+global.youtube = "https://youtube.com/c/CHARLIE999" //bebas asal jan hapus
 global.github = "https://GitHub.com/Charlie99yt" //bebas
 global.email = "sbadgamer4@gmail.com" //bebas
-global.region = "Brazil" //bebas
-global.timezone = 'Brazil/Rio' //  timezone wib
+global.region = "India" //bebas
+global.timezone = 'India/Delhi' //  timezone wib
 global.premium = ["+556696124031","+919556416715"] //premium user
-global.owner = ["+556696124031","+919556416715"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "+556696124031" // nomor wa kalian
+global.owner = ["+919556416715","+919556416715"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "+919556416715" // nomor wa kalian
 global.ownernomerr = "+919556416715" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.packname = '© CHARLIE999' //sticker wm ubah
-global.author = 'ArleiBOT' //sticker wm ganti nama kalian
+global.author = 'WHATSAPP-BOT' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 
@@ -58,16 +58,16 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     sukses: '🤗Done, Oke Desu~',
-    admin: 'Este comando só pode ser usado pelo administrador !',
-    botAdmin: 'Este comando só pode ser usado quando o bot se torna administrador !',
-    owner: 'Este comando só pode ser usado pelo proprietário !',
+    admin: 'This command can only be used by the administrator !',
+    botAdmin: 'This command can only be used when the bot becomes admin !',
+    owner: 'This command can only be used by the owner !',
     group: 'Perintah Ini Hanya Bisa Digunakan Di Group !',
-    private: 'Este comando só pode ser usado em privado !',
-	bot: 'Recursos especiais do usuário do número do bot',
-    errtoimg: 'Desculpe, atualmente não é compatível com o adesivo gif !',
+    private: 'This command can only be used in private !',
+	bot: 'Bot number user special features',
+    errtoimg: 'Sorry, currently not compatible with gif sticker !',
     wait: '⏳ wait in Proses',
-	lockCmd: 'Recursos não ativados pelo proprietário!',
-	example1: 'Bem-vindo @user no grupo @subject Não se esqueça de ler as regras @desc\n\nNote :\n1. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @date (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
+	lockCmd: 'Features not activated by owner!',
+	example1: 'Welcome @user in group @subject Don't forget to read the rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @date (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
 }
 
 let file = require.resolve(__filename)
