@@ -67,7 +67,7 @@ global.mess = {
     errtoimg: 'Sorry, currently not compatible with gif sticker !',
     wait: '⏳ wait in Proses',
 	lockCmd: 'Features not activated by owner!',
-	example1: 'Welcome @user in group @subject Don't forget to read the rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @date (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
+	example1: 'Welcome @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
 }
 
 let file = require.resolve(__filename)
