@@ -67,7 +67,7 @@ global.mess = {
     errtoimg: 'Desculpe, atualmente não é compatível com o adesivo gif !',
     wait: '⏳ wait in Proses',
 	lockCmd: 'Recursos não ativados pelo proprietário!',
-	example1: 'Bem-vindo @user no grupo @subject Não se esqueça de ler as regras @desc\n\nNote :\n1. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
+	example1: 'Bem-vindo @user no grupo @subject Não se esqueça de ler as regras @desc\n\nNote :\n1. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @date (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
 }
 
 let file = require.resolve(__filename)
